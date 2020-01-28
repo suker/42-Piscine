@@ -1,7 +1,9 @@
 
 
-# 42Projects
-This is my repository for my piscine period on `March 19'`. 
+# 42 Projects
+#### This is my project repository for my piscine period on `March 19' in 42 Silicon Valley campus (USA)`. It was really nice experience to meet people from different parts of the world and learn about peer-to-peer learning metodology.
+## Projectos 42
+#### Este es mi repositorio de projectos realizados en la piscina de `Marzo 2019 en el campus 42 Silicon Valley`. Sin duda alguna fue una experiencia maravillosa conocer a gente de diferentes lugares y acerca de su metodologia de aprendizaje peer-to-peer. 
 <h2>Table of content / Tabla de contenido</h2>
 
 | Days | Solutions | Pdfs |
@@ -26,5 +28,3 @@ This is my repository for my piscine period on `March 19'`.
 - [ ] Start my cadet program
 - [ ] Get a job as Software developer / ML engineer.
 - [ ] Get Married
-
-
