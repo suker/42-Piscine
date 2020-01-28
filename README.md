@@ -1,15 +1,30 @@
-# 42Projects
-<h2>Day 1</h2>
 
-<h2>Day 2</h2>
-<h2>Day 3</h2>
-<h2>Day 4</h2>
-<h2>Day 5</h2>
-<h2>Day 6</h2>
-<h2>Day 7</h2>
-<h2>Day 8</h2>
-<h2>Day 9</h2>
-<h2>Day 10</h2>
-<h2>Day 11</h2>
-<h2>Day 12</h2>
-<h2>Day 13</h2>
+
+# 42Projects
+This is my repository for my piscine period on `March 19'`. 
+<h2>Table of content / Tabla de contenido</h2>
+
+| Days | Solutions | Pdfs |
+|-----|-------|----------|
+|1| X exercises| X exercises |
+|2| X exercises| X exercises |
+|3| X exercises| X exercises |
+|4| X exercises| X exercises |
+|5| X exercises| X exercises |
+|6| X exercises| X exercises |
+|7| X exercises| X exercises |
+|8| X exercises| X exercises |
+|9| X exercises| X exercises |
+|10| X exercises| X exercises |
+|11| X exercises| X exercises |
+|12| X exercises| X exercises |
+
+
+## TO DO LIST:
+
+- [x] Finish my piscine
+- [ ] Start my cadet program
+- [ ] Get a job as Software developer / ML engineer.
+- [ ] Get Married
+
+
