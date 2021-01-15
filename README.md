@@ -1,6 +1,6 @@
 # 1.1. ENGLISH VERSION
 
-### 1.1.1 About 42
+### 1.1.1. ABOUT 42
 
 <a href="https://www.42.us.org/">42</a> **is an innovative engineering and programming college** that offers rigorous, industry-leading education in a professional environment. Our program is designed to prepare students for the workplace using an **instructional design** that means students learn skills for the digital world and for the technology industry.
 
@@ -29,7 +29,7 @@ The main goal is to demonstrate that we've acquired **the basics of C programmin
 
 #### 1.1.2.3. EVALUATION PARAMETERS:
 
-From my POV, and after taking this test on two different campuses **(42 Sillicon Valley & s19 in Brussels)**, I used to talk with the students of each campus and I noticed that ** NOBODY ** knew for sure which ones were the parameters to become a student. However, there are some factors that can influence when being evaluated, which I will name here below (remember, under my ** POINT OF VIEW **):
+From my POV, and after taking this test on two different campuses **(42 Sillicon Valley & s19 in Brussels)**, I used to talk with the students of each campus and I noticed that **NOBODY** knew for sure which ones were the parameters to become a student. However, there are some factors that can influence when being evaluated, which I will name here below (remember, under my **POINT OF VIEW**):
 
 - ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) Pass **TESTS**.
 - ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) Go as long as possible.
@@ -44,9 +44,9 @@ From my POV, and after taking this test on two different campuses **(42 Sillicon
 
 Here is a list of some tips that have helped me a lot throughout this stage and that I hope will help you:
 - **Try to rest as much as possible.** (tired mind is not as productive)
-- **Paper and pencil always at hand! or failing that, use blackboards. **
+- **Paper and pencil always at hand! or failing that, use blackboards.**
 - **Do not copy code.** (It is useless to copy code if our goal is to learn to do it ourselves)
-- **Be communicative and collaborative. ** (Very important, you can always learn something more from other colleagues)
+- **Be communicative and collaborative.** (Very important, you can always learn something more from other colleagues)
 - **Stay hydrated and well fed.** (Sounds like mother's advice, but very effective)
 - **Be persistent with yourself.** (No matter how difficult you may see it at first, especially if you have not programmed before, we are always learning!)
 - **Seek help if you get stuck.** (Apart from learning how to find the right information, we can ask others for help, this saves a lot of time and headaches!)
