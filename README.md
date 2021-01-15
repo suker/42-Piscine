@@ -6,13 +6,13 @@
 
 # About 42
 
-<a href="https://www.42.us.org/">42</a> is an innovative engineering and programming college that offers rigorous, industry-leading education in a professional environment. Our program is designed to prepare students for the workplace using an instructional design that means students learn skills for the digital world and for the technology industry.
+<a href="https://www.42.us.org/">42</a> **is an innovative engineering and programming college** that offers rigorous, industry-leading education in a professional environment. Our program is designed to prepare students for the workplace using an instructional design that means students learn skills for the digital world and for the technology industry.
 
 Our program is rigid yet flexible: certain projects are required in a particular order, while others students are free to pursue and explore. Projects range from 48 hours to 6 months, depending on their depth and complexity. Projects are corrected by peers, and students learn technical skills as well as interpersonal skills, time management, and project management.
 
 
 # 42 Projects
-#### This is my project repository for my piscine period on `October 2020 in` <a href="https://www.s19.be/">19 Brussels</a> `campus (Belgium)`. It was really nice experience to meet people from different parts of the world and learn about peer-to-peer learning methodology.
+#### This is my project repository for my piscine period on `October 2020 in` <a href="https://www.s19.be/">19 Brussels</a> `campus (Belgium)`. It was an amazing experience to meet people from different cultures and learn about peer-to-peer learning methodology.
 
 # VERSIÓN ESPAÑOLA
 
@@ -46,6 +46,6 @@ Nuestro programa es rígido pero flexible: ciertos proyectos se requieren en un 
 ## TO DO LIST:
 
 - [x] Finish my piscine
-- [ ] Start my cadet program
+- [x] Start my cadet program
 - [ ] Get a job as Software developer / ML engineer.
 - [ ] Get Married
