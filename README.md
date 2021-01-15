@@ -88,8 +88,14 @@ I enclose the projects that I have carried out during this stage in order to ser
 |13 - 15| <a href="https://github.com/suker/42-projects/tree/master/RUSH01/ex00"> RUSH01 </a>| 1 | 42/100 :x:|
 |21 - 23| <a href="https://github.com/suker/42-projects/tree/master/RUSH02"> RUSH02 </a>| 1 | 0/100 :x:|
 
-<br><br><br><br><br>
+<p align="left">
+  <img border="0" alt="42sv" src="/pictures/projects.png" width="30%" height="20%">
+</p>
+<p align="left">
+  <img border="0" alt="42sv" src="/pictures/projects2.png" width="30%" height="20%">
+</p>
 
+<br><br><br>
 # <a id="spa-ver">VERSIÓN EN ESPAÑOL</a>
 
 <p align="center">
@@ -176,6 +182,12 @@ Adjunto los proyectos que he realizado durante esta etapa con el fin de que os s
 |13 - 15| <a href="https://github.com/suker/42-projects/tree/master/RUSH01/ex00"> RUSH01 </a>| 1 | 42/100 :x:|
 |21 - 23| <a href="https://github.com/suker/42-projects/tree/master/RUSH02"> RUSH02 </a>| 1 | 0/100 :x:|
 
+<p align="left">
+  <img border="0" alt="42sv" src="/pictures/projects.png" width="30%" height="20%">
+</p>
+<p align="left">
+  <img border="0" alt="42sv" src="/pictures/projects2.png" width="30%" height="20%">
+</p>
 
 ## TO DO LIST / QUEHACERES:
 - [x] Finish my piscine / Terminar mi piscina.
