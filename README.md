@@ -81,6 +81,7 @@ I enclose the projects that I have carried out during this stage in order to ser
 |13 - 15| <a href="https://github.com/suker/42-projects/tree/master/RUSH01/ex00"> RUSH01 </a>| 1 | 42/100 |
 |21 - 23| <a href="https://github.com/suker/42-projects/tree/master/RUSH02"> RUSH02 </a>| 1 | 0/100 |
 
+<br><br><br><br><br>
 
 # <a id="spa-ver">VERSIÓN EN ESPAÑOL</a>
 
