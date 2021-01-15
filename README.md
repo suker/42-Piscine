@@ -1,8 +1,4 @@
-
-
-
 # ENGLISH VERSION
-
 
 ## About 42
 
