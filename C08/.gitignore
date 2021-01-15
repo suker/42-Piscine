@@ -1,0 +1,10 @@
+# ---- C FILES IGNORED ------ #
+main.c
+ft_putchar.c
+
+# ---- EXTRA FILES IGNORED ---- #
+.DS_Store
+*.swp
+*.DSYM
+a.out
+*.gch

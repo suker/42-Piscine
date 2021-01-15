@@ -1,0 +1,6 @@
+main.c
+ft_putchar.c
+.DS_Store
+*.swp
+*.DSYM
+a.out

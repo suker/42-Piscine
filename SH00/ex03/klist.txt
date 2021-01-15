@@ -1,0 +1,5 @@
+Credentials cache: API:1367C93C-E204-4849-8321-5A8215541490
+        Principal: jubonill@S19.BE
+
+  Issued                Expires               Principal
+Oct  5 12:49:13 2020  Oct  5 22:49:01 2020  krbtgt/S19.BE@S19.BE
