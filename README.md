@@ -57,7 +57,7 @@ Here is a list of some tips that have helped me a lot throughout this stage and 
 
 I enclose the projects that I have carried out during this stage in order to serve as a guide for you. These projects were made in the pool of `October 2020 in`<a href="https://www.s19.be/"> 19 Brussels </a>` campus (Belgium)`.
 
-**Attention: Each campus organizes and manages projects differently.**
+**:exclamation::exclamation:Attention: Each campus organizes and manages projects differently.**
 
 #### :clipboard: PROJECTS' TABLE:
 
@@ -139,7 +139,7 @@ Aqui os dejo una lista de unos consejos que me han ayudado mucho a lo largo de �
 #### :checkered_flag: PROYECTOS REALIZADOS:
 Adjunto los proyectos que he realizado durante esta etapa con el fin de que os sirva de guía. Éstos proyectos fueron realizados en la piscina de `Octubre 2020 en` <a href="https://www.s19.be/">19 Bruselas</a> `campus (Bélgica)`.
 
-**Atención: Cada campus organiza y gestiona de diferente manera los proyectos.**
+**:exclamation::exclamation:Atención: Cada campus organiza y gestiona de diferente manera los proyectos.**
 
 #### :clipboard: TABLA DE EJERCICIOS:
 
