@@ -1,4 +1,4 @@
-# <a id="spa-ver">VERSIÓN EN ESPAÑOL</a>
+# <a href="#spa-ver">VERSIÓN EN ESPAÑOL</a>
 
 # ENGLISH VERSION
 
