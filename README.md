@@ -2,7 +2,11 @@
 
 # :us: ENGLISH VERSION :us:
 
-![picture]('pictures/GDG-Fremont.jpg')
+<p align="center">
+  <a href="https://www.42.us.org/gdg-fremont-celebrates-iwd-42-silicon-valley/?fbclid=IwAR1j9Hb-H0jaNXaQ3-zQsjEL4NSL0HXutRB5xMp0-V0AKKJWHva5E9ORYSU">
+    <img border="0" alt="42sv" src="/pictures/GDG-Fremont.jpg" width="80%" height="60%">
+  </a>
+</p>
 
 ### :scroll: OVERVIEW 42  :scroll:
 
@@ -88,6 +92,12 @@ I enclose the projects that I have carried out during this stage in order to ser
 
 # <a id="spa-ver">VERSIÓN EN ESPAÑOL</a>
 
+<p align="center">
+  <a href="https://www.facebook.com/42SiliconValley">
+    <img border="0" alt="42sv" src="/pictures/42sv.jpeg" width="80%" height="40%">
+  </a>
+</p>
+
 ### :scroll: ACERCA DE 42 :scroll:
 
 <a href="https://www.42.us.org/">42</a> **es una escuela de ingeniería y programación innovadora** que ofrece una educación rigurosa, líder en la industria en un entorno profesional. Nuestro programa está diseñado con el fin de preparar a los estudiantes para el entorno laboral utilizando un **diseño de instrucción**, que significa que los estudiantes aprenden habilidades para el mundo digital y para la industria de la tecnología.
@@ -166,7 +176,6 @@ Adjunto los proyectos que he realizado durante esta etapa con el fin de que os s
 |13 - 15| <a href="https://github.com/suker/42-projects/tree/master/RUSH01/ex00"> RUSH01 </a>| 1 | 42/100 :x:|
 |21 - 23| <a href="https://github.com/suker/42-projects/tree/master/RUSH02"> RUSH02 </a>| 1 | 0/100 :x:|
 
-![alt text](https://www.photobox.co.uk/my/photo/full?photo_id=503678762828)
 
 ## TO DO LIST / QUEHACERES:
 - [x] Finish my piscine / Terminar mi piscina.
