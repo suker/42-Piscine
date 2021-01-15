@@ -164,7 +164,7 @@ Adjunto los proyectos que he realizado durante esta etapa con el fin de que os s
 |13 - 15| <a href="https://github.com/suker/42-projects/tree/master/RUSH01/ex00"> RUSH01 </a>| 1 | 42/100 :x:|
 |21 - 23| <a href="https://github.com/suker/42-projects/tree/master/RUSH02"> RUSH02 </a>| 1 | 0/100 :x:|
 
-<img src="https://www.photobox.co.uk/my/photo/full?photo_id=503678762828" alt="projects">
+![alt text](https://www.photobox.co.uk/my/photo/full?photo_id=503678762828)
 
 ## TO DO LIST / QUEHACERES:
 - [x] Finish my piscine / Terminar mi piscina.
