@@ -1,6 +1,8 @@
-# 1.1. ENGLISH VERSION
+# <a id="spa-ver">VERSIÓN EN ESPAÑOL</a>
 
-### 1.1.1. ABOUT 42
+# ENGLISH VERSION
+
+### OVERVIEW 42
 
 <a href="https://www.42.us.org/">42</a> **is an innovative engineering and programming college** that offers rigorous, industry-leading education in a professional environment. Our program is designed to prepare students for the workplace using an **instructional design** that means students learn skills for the digital world and for the technology industry.
 
@@ -18,16 +20,16 @@ The **main features** of the school are:
 - [x] Diversity of projects.
 
 
-### 1.1.2. ABOUT PISCINE
-#### 1.1.2.1. INTRODUCTION:
+### ABOUT PISCINE
+#### INTRODUCTION:
 
 **The piscine** is a 1 month on-site test dedicated to learning about the basics of programming. It consists of 26 days of constant and intensive learning during the pisciners must demonstrate their acquired skills through weekly exams.
 
-#### 1.1.2.2. OBJETIVE:
+#### OBJETIVE:
 
 The main goal is to demonstrate that we've acquired **the basics of C programming** and that you **fit with our methodology** to become a **student or cadet** of this school.
 
-#### 1.1.2.3. EVALUATION PARAMETERS:
+#### EVALUATION PARAMETERS:
 
 From my POV, and after taking this test on two different campuses **(42 Sillicon Valley & s19 in Brussels)**, I used to talk with the students of each campus and I noticed that **NOBODY** knew for sure which ones were the parameters to become a student. However, there are some factors that can influence when being evaluated, which I will name here below (remember, under my **POINT OF VIEW**):
 
@@ -40,7 +42,7 @@ From my POV, and after taking this test on two different campuses **(42 Sillicon
 - ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Being persistent and do not being afraid of failure.
 - ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Do not bother the staff or other cadets with questions related to your projects.
 
-#### 1.1.2.4. PISCINE'S TIPS:
+#### PISCINE'S TIPS:
 
 Here is a list of some tips that have helped me a lot throughout this stage and that I hope will help you:
 - **Try to rest as much as possible.** (tired mind is not as productive)
@@ -49,15 +51,15 @@ Here is a list of some tips that have helped me a lot throughout this stage and 
 - **Be communicative and collaborative.** (Very important, you can always learn something more from other colleagues)
 - **Stay hydrated and well fed.** (Sounds like mother's advice, but very effective)
 - **Be persistent with yourself.** (No matter how difficult you may see it at first, especially if you have not programmed before, we are always learning!)
-- **Seek help if you get stuck.** (Apart from learning how to find the right information, we can ask others for help, this saves a lot of time and headaches!)
-- **Make code simple and readable.** (When writing code, if we are newbies, do not try to shorten our code. This leads to our code not being easily readable by others and leads to confusion even for ourselves )
+- **Look for help if you get stuck.** (Apart from learning how to find the right information, we can ask others for help, this saves a lot of time and headaches!)
+- **Make code simple and readable.** (When writing code, if we are newbies, do not try to shorten our code. This leads to our code not being easily readable by others and leads to confusion even for ourselves)
 
-#### 1.1.2.5. FULFILLED PROJECTS:
+#### FULFILLED PROJECTS:
 
 I enclose the projects that I have carried out during this stage in order to serve as a guide for you. These are my projects made in the pool of `October 2020 in`<a href="https://www.s19.be/"> 19 Brussels </a>` campus (Belgium)`.
 **Attention: Each campus organizes and manages projects differently.**
 
-#### 1.1.2.5.1. PROJECTS' TABLE:
+#### PROJECTS' TABLE:
 
 | Days | Solutions | # Exercises | Results |
 |-----|-------|----------|----------|
@@ -81,9 +83,9 @@ I enclose the projects that I have carried out during this stage in order to ser
 |21 - 23| <a href="https://github.com/suker/42-projects/tree/master/RUSH02"> RUSH02 </a>| 1 | 0/100 |
 
 
-# 1.2. VERSIÓN ESPAÑOLA
+# <a id="spa-ver">VERSIÓN EN ESPAÑOL</a>
 
-### 1.2.1. ACERCA DE 42
+### ACERCA DE 42
 
 <a href="https://www.42.us.org/">42</a> **es una escuela de ingeniería y programación innovadora** que ofrece una educación rigurosa, líder en la industria en un entorno profesional. Nuestro programa está diseñado con el fin de preparar a los estudiantes para el entorno laboral utilizando un **diseño de instrucción**, que significa que los estudiantes aprenden habilidades para el mundo digital y para la industria de la tecnología.
 
@@ -100,16 +102,16 @@ Las **principales carácteristicas** de la escuela son:
 - [x] Currículum gamificado de estudios.
 - [x] Diversidad de proyectos.
 
-### 1.2.2. ACERCA DE LA PISCINA
-#### 1.2.2.1. INTRODUCCIÓN:
+### ACERCA DE LA PISCINA
+#### INTRODUCCIÓN:
 
 La **piscina** es una prueba presencial de 1 mes dedicada a aprender sobre las bases de la programación. Consta de 26 dias de constante e intensivo aprendizaje durante los cuales los alumnos deberan demostrar sus destrezas adquiridas por medio de exámenes semanales.
 
-#### 1.2.2.2. OBJETIVO:
+#### OBJETIVO:
 
 El objetivo principal de este periódo es demostrar que has adquirido los **conocimientos básicos de programación en C** y que eres **apto** para convertirte en un **estudiante o cadete** de esta escuela.
 
-#### 1.2.2.3. PARÁMETROS DE EVALUACIÓN:
+#### PARÁMETROS DE EVALUACIÓN:
 
 Bajo mi punto de vista, y tras haber realizado esta prueba en dos campus diferentes **(42 Sillicon Valley & s19 en Bruselas)**, dialogando con los estudiantes de cada campus es que **NADIE** sabe a ciencia cierta cuales son los parámetros de evaluación para ser estudiante. Sin embargo, existen algunos factores que si que pueden influir a la hora de ser evaluado, los cuales los nombraré aqui abajo (recuerden, bajo mi **PUNTO DE VISTA**):
 
@@ -122,7 +124,7 @@ Bajo mi punto de vista, y tras haber realizado esta prueba en dos campus diferen
 - ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Ser persistente y no tener miedo al fracaso.
 - ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) No molestar al staff o demás estudiantes para preguntas relacionadas con tus proyectos.
 
-#### 1.2.2.4. CONSEJOS PARA LA PISCINA:
+#### CONSEJOS PARA LA PISCINA:
 
 Aqui os dejo una lista de unos consejos que me han ayudado mucho a lo largo de ésta etapa y que espero que os sirvan de ayuda:
 - **Procurad descansar lo más que podáis.** (mente cansada no es igual de productiva)
@@ -134,11 +136,11 @@ Aqui os dejo una lista de unos consejos que me han ayudado mucho a lo largo de �
 - **Buscad ayuda si os atascáis.** (Aparte de que debemos aprender saber buscar la información adecuada, podemos pedir ayuda a los demás, esto ahorra mucho tiempo y dolores de cabeza!)
 - **Realizad código simple y legible.** (A la hora de escribir código, si somos novatos, no busquemos acortar nuestro código. Esto conlleva a que nuestro código no sea fácilmente legible para los demás y conlleve a confusiones incluso para nosotros mismos)
 
-#### 1.2.2.5. PROYECTOS REALIZADOS:
+#### PROYECTOS REALIZADOS:
 Adjunto los proyectos que he realizado durante esta etapa con el fin de que os sirva de guía. Éstos son mis proyectos realizados en la piscina de `Octubre 2020 en` <a href="https://www.s19.be/">19 Bruselas</a> `campus (Bélgica)`.
 **Atención: Cada campus organiza y gestiona de diferente manera los proyectos.**
 
-#### 1.2.2.5.1. TABLA DE CONTENIDOS:
+#### TABLA DE EJERCICIOS:
 
 | Días | Soluciones | # Ejercicios | Resultados |
 |-----|-------|----------|----------|
@@ -161,9 +163,6 @@ Adjunto los proyectos que he realizado durante esta etapa con el fin de que os s
 |13 - 15| <a href="https://github.com/suker/42-projects/tree/master/RUSH01/ex00"> RUSH01 </a>| 1 | 42/100 |
 |21 - 23| <a href="https://github.com/suker/42-projects/tree/master/RUSH02"> RUSH02 </a>| 1 | 0/100 |
 
-## TO DO LIST:
-
-- [x] Finish my piscine
-- [x] Start my cadet program
-- [ ] Get a job as Software developer / ML engineer.
-- [ ] Get Married
+## TO DO LIST / QUEHACERES:
+- [x] Finish my piscine / Terminar mi piscina.
+- [x] Start my cadet program / Empezar mis estudios en 42.
