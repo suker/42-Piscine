@@ -2,6 +2,8 @@
 
 # :us: ENGLISH VERSION :us:
 
+![picture]('pictures/GDG-Fremont.jpg')
+
 ### :scroll: OVERVIEW 42  :scroll:
 
 <a href="https://www.42.us.org/">42</a> **is an innovative engineering and programming college** that offers rigorous, industry-leading education in a professional environment. Our program is designed to prepare students for the workplace using an **instructional design** that means students learn skills for the digital world and for the technology industry.
