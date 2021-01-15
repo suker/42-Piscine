@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.42.us.org/gdg-fremont-celebrates-iwd-42-silicon-valley/?fbclid=IwAR1j9Hb-H0jaNXaQ3-zQsjEL4NSL0HXutRB5xMp0-V0AKKJWHva5E9ORYSU">
-    <img border="0" alt="42sv" src="/pictures/GDG-Fremont.jpg" width="80%" height="60%">
+    <kbd><img border="0" alt="42sv" src="/pictures/GDG-Fremont.jpg" width="80%" height="60%"></kbd>
   </a>
 </p>
 
@@ -94,7 +94,7 @@ I enclose the projects that I have carried out during this stage in order to ser
 
 <p align="center">
   <a href="https://www.facebook.com/42SiliconValley">
-    <img border="0" alt="42sv" src="/pictures/42sv.jpeg" width="80%" height="40%">
+   <kbd><img border="0" alt="42sv" src="/pictures/42sv.jpeg" width="80%" height="40%"></kbd>
   </a>
 </p>
 
