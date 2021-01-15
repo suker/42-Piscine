@@ -46,6 +46,6 @@ Nuestro programa es rígido pero flexible: ciertos proyectos se requieren en un 
 ## TO DO LIST:
 
 - [x] Finish my piscine
-- [ ] Start my cadet program
+- [x] Start my cadet program
 - [ ] Get a job as Software developer / ML engineer.
 - [ ] Get Married
