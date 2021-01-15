@@ -59,20 +59,27 @@ I enclose the projects that I have carried out during this stage in order to ser
 
 #### 1.1.2.5.1. PROJECTS' TABLE:
 
-| Days | Solutions | PDFS |
-|-----|-------|----------|
-|1| X exercises| X exercises |
-|2| X exercises| X exercises |
-|3| X exercises| X exercises |
-|4| X exercises| X exercises |
-|5| X exercises| X exercises |
-|6| X exercises| X exercises |
-|7| X exercises| X exercises |
-|8| X exercises| X exercises |
-|9| X exercises| X exercises |
-|10| X exercises| X exercises |
-|11| X exercises| X exercises |
-|12| X exercises| X exercises |
+| Days | Solutions | # Exercises | Results |
+|-----|-------|----------|----------|
+|1| <a href="https://github.com/suker/42-projects/tree/master/SH00"> SHELL 00</a>| 10 | 85/100 |
+|2| <a href="https://github.com/suker/42-projects/tree/master/SH01"> SHELL 01</a>| 9 | 85/100 |
+|3| <a href="https://github.com/suker/42-projects/tree/master/C00"> C00</a>| 9 | 77/100 |
+|4| <a href="https://github.com/suker/42-projects/tree/master/C01"> C01 </a>| 9 | 100/100 |
+|5| <a href="https://github.com/suker/42-projects/tree/master/C02"> C02 </a>| 12 | 85/100 |
+|8| <a href="https://github.com/suker/42-projects/tree/master/C03"> C03 </a>| 6 | 100/100 |
+|9| <a href="https://github.com/suker/42-projects/tree/master/C04"> C04 </a>| 6 | 100/100 |
+|10| <a href="https://github.com/suker/42-projects/tree/master/C05"> C05 </a>| 8 | 80/100 |
+|11| <a href="https://github.com/suker/42-projects/tree/master/C06"> C06 </a>| 4 | 100/100 |
+|12| <a href="https://github.com/suker/42-projects/tree/master/C07"> C07 </a>| 6 | 100/100 |
+|16| <a href="https://github.com/suker/42-projects/tree/master/C08"> C08 </a>| 6 | 100/100 |
+|17| <a href="https://github.com/suker/42-projects/tree/master/C09"> C09 </a>| 3 | 100/100 |
+|18| <a href="https://github.com/suker/42-projects/tree/master/C10"> C10 </a>| 4 | 15/100 |
+|19| C12 No realizado| 18 | - |
+|20| C13 No realizado | 8 | - |
+|6 - 7| <a href="https://github.com/suker/42-projects/tree/master/RUSH00"> RUSH00 </a>| 1 | 0/100 |
+|13 - 15| <a href="https://github.com/suker/42-projects/tree/master/RUSH01/ex00"> RUSH01 </a>| 1 | 42/100 |
+|21 - 23| <a href="https://github.com/suker/42-projects/tree/master/RUSH02"> RUSH02 </a>| 1 | 0/100 |
+
 
 # 1.2. VERSIÓN ESPAÑOLA
 
@@ -150,8 +157,9 @@ Adjunto los proyectos que he realizado durante esta etapa con el fin de que os s
 |18| <a href="https://github.com/suker/42-projects/tree/master/C10"> C10 </a>| 4 | 15/100 |
 |19| C12 No realizado| 18 | - |
 |20| C13 No realizado | 8 | - |
-|6 - 7| <a href="https://github.com/suker/42-projects/tree/master/RUSH00/ex00"> RUSH00 </a>| | 1 | 0/100 |
-|13 - 15| <a href="https://github.com/suker/42-projects/tree/master/RUSH01/ex00"> RUSH01 </a>| | 1 | 42/100 |
+|6 - 7| <a href="https://github.com/suker/42-projects/tree/master/RUSH00"> RUSH00 </a>| 1 | 0/100 |
+|13 - 15| <a href="https://github.com/suker/42-projects/tree/master/RUSH01/ex00"> RUSH01 </a>| 1 | 42/100 |
+|21 - 23| <a href="https://github.com/suker/42-projects/tree/master/RUSH02"> RUSH02 </a>| 1 | 0/100 |
 
 ## TO DO LIST:
 
