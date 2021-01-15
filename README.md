@@ -8,8 +8,7 @@
 
 Our program is rigid yet flexible: certain projects are required in a particular order, while others students are free to pursue and explore. **Projects range from 48 hours to 6 months, depending on their depth and complexity.** Projects are **corrected by peers**, and students learn technical skills as well as **interpersonal skills, time management, and project management.**
 
-The **main features** of the school are:
-
+**Main features** of the school are:
 - [x] Open 24/7.
 - [x] Peer-to-peer methodology.
 - [x] Free tuition.
@@ -92,7 +91,6 @@ I enclose the projects that I have carried out during this stage in order to ser
 Nuestro programa es rígido pero flexible: ciertos proyectos se requieren en un orden particular, mientras que otros estudiantes son libres de seguir y explorar su camino. **Los proyectos van desde las 48 horas hasta los 6 meses, dependiendo de su profundidad y complejidad**. Los proyectos son **corregidos por compañeros** y los estudiantes aprenden habilidades técnicas así como habilidades **interpersonales, administración del tiempo y administración de proyectos.**
 
 Las **principales carácteristicas** de la escuela son:
-
 - [x] Abierto 24/7.
 - [x] Metodología peer-to-peer.
 - [x] Estudios gratis.
