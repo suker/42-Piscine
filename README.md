@@ -36,7 +36,7 @@ The main goal is to demonstrate that we've acquired **the basics of C programmin
 
 #### :book: EVALUATION PARAMETERS:
 
-From my POV, and after taking this test on two different campuses **(42 Sillicon Valley & s19 in Brussels)**, I used to talk with the students of each campus and I noticed that **NOBODY** knew for sure which ones were the parameters to become a student. However, there are some factors that can influence when being evaluated, which I will name here below (remember, under my **POINT OF VIEW**):
+From my POV, and after doing the piscine twice on different campuses **(42 Sillicon Valley & s19 in Brussels)**, I realized that **NOBODY** knows for sure which ones are the parameters to become a student. However, **there are some factors that can influence when we're being evaluated**, which I will name here below (remember, under my **POINT OF VIEW**):
 
 - ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) Pass **TESTS**.
 - ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) Go as long as possible.
@@ -61,9 +61,9 @@ Here is a list of some tips that have helped me a lot throughout this stage and 
 
 #### :checkered_flag: FULFILLED PROJECTS:
 
-I enclose the projects that I have carried out during this stage in order to serve as a guide for you. These projects were made in the pool of **October 2020 in** <a href="https://www.s19.be/"> 19 Brussels </a> **campus (Belgium).**
+I enclose the projects that I have carried out during this stage in order to serve as a guide for you. These projects were made in the **October piscine of 2020 in** <a href="https://www.s19.be/"> 19 Brussels </a> **campus (Belgium).**In every project folder there is a PDF guide and the solutions.
 
-**:exclamation::exclamation:Attention: Each campus organizes and manages projects differently.**
+**:exclamation::exclamation:Attention: Each campus organizes and manages projects differently.:exclamation::exclamation:**
 
 #### :clipboard: PROJECTS' TABLE:
 
@@ -155,9 +155,9 @@ Aqui os dejo una lista de unos consejos que me han ayudado mucho a lo largo de �
 - **Realizad código simple y legible.** (A la hora de escribir código, si somos novatos, no busquemos acortar nuestro código. Esto conlleva a que nuestro código no sea fácilmente legible para los demás y conlleve a confusiones incluso para nosotros mismos)
 
 #### :checkered_flag: PROYECTOS REALIZADOS:
-Adjunto los proyectos que he realizado durante esta etapa con el fin de que os sirva de guía. Éstos proyectos fueron realizados en la piscina de **Octubre 2020 en el campus de** <a href="https://www.s19.be/">42 Bruselas</a> **(Bélgica).**
+Adjunto los proyectos que he realizado durante esta etapa con el fin de que os sirva de guía. Éstos proyectos fueron realizados en la piscina de **Octubre 2020 en el campus de** <a href="https://www.s19.be/">42 Bruselas</a> **(Bélgica).**En cada uno de los proyectos se encuentran los ejercicios a realizar en PDF junto a las soluciones.
 
-**:exclamation::exclamation:Atención: Cada campus organiza y gestiona de diferente manera los proyectos.**
+**:exclamation::exclamation:Atención: Cada campus organiza y gestiona de diferente manera los proyectos.:exclamation::exclamation:**
 
 #### :clipboard: TABLA DE EJERCICIOS:
 
