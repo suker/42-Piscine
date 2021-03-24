@@ -30,7 +30,7 @@ Our program is rigid yet flexible: certain projects are required in a particular
 
 **The piscine** is a 1 month on-site test dedicated to learning about the basics of programming. It consists of 26 days of constant and intensive learning during the pisciners must demonstrate their acquired skills through weekly exams.
 
-#### :dart: OBJETIVE:
+#### :dart: OBJECTIVES:
 
 The main goal is to demonstrate that we've acquired **the basics of C programming** and that you **fit with our methodology** to become a **student or cadet** of this school.
 
