@@ -155,7 +155,7 @@ Aqui os dejo una lista de unos consejos que me han ayudado mucho a lo largo de �
 - **Realizad código simple y legible.** (A la hora de escribir código, si somos novatos, no busquemos acortar nuestro código. Esto conlleva a que nuestro código no sea fácilmente legible para los demás y conlleve a confusiones incluso para nosotros mismos)
 
 #### :checkered_flag: PROYECTOS REALIZADOS:
-Adjunto los proyectos que he realizado durante esta etapa con el fin de que os sirva de guía. Éstos proyectos fueron realizados en la piscina de **Octubre 2020 en el campus de** <a href="https://www.s19.be/">42 Bruselas</a> **(Bélgica).**En cada uno de los proyectos se encuentran los ejercicios a realizar en PDF junto a las soluciones.
+Adjunto los proyectos que he realizado durante esta etapa con el fin de que os sirva de guía. Éstos proyectos fueron realizados en la piscina de **Octubre 2020 en el campus de** <a href="https://www.s19.be/">42 Bruselas</a> (*Bélgica*).En cada uno de los proyectos se encuentran los ejercicios a realizar en PDF junto a las soluciones.
 
 **:exclamation::exclamation:Atención: Cada campus organiza y gestiona de diferente manera los proyectos.:exclamation::exclamation:**
 
