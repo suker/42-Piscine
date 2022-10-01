@@ -36,15 +36,15 @@ The main goal is to demonstrate that we've acquired **the basics of C programmin
 
 #### :book: EVALUATION PARAMETERS:
 
-From my POV, and after doing the piscine twice on different campuses **(42 Sillicon Valley & s19 in Brussels)**, I realized that **NOBODY** knows for sure which ones are the parameters to become a student. However, **there are some factors that can influence when we're being evaluated**, which I will name here below (remember, under my **POINT OF VIEW**):
+From my POV, after doing the piscine twice on different campuses **(42 Sillicon Valley & s19 in Brussels)**, I noticed that **NOBODY** knows for sure which ones are the parameters to become a student. However, **there are some facts that can be important when we're being evaluated**, some of them I list here below (remember, under my **POINT OF VIEW**):
 
 - ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) Pass **TESTS**.
 - ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) Go as long as possible.
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Be creative.
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Be respectful with school & schoolfellows.
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Ask as much as possible looking for help with other students.
-- ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Being motivated and dedicated during the piscine.
-- ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Being persistent and do not being afraid of failure.
+- ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Be motivated and dedicated during the piscine.
+- ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Be persistent and fearless of failure.
 - ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Do not bother the staff or other cadets with questions related to your projects.
 
 #### :memo: PISCINE'S TIPS:
