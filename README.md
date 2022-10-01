@@ -38,14 +38,14 @@ The main goal is to demonstrate that we've acquired **the basics of C programmin
 
 From my POV, after doing the piscine twice on different campuses **(42 Sillicon Valley & s19 in Brussels)**, I noticed that **NOBODY** knows for sure which ones are the parameters to become a student. However, **there are some facts that can be important when we're being evaluated**, some of them I list here below (remember, under my **POINT OF VIEW**):
 
-- ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) Pass **TESTS**.
-- ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) Go as long as possible.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Be creative.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Be respectful with school & schoolfellows.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Ask as much as possible looking for help with other students.
-- ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Be motivated and dedicated during the piscine.
-- ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Be persistent and fearless of failure.
-- ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Do not bother the staff or other cadets with questions related to your projects.
+- 🟥 Pass **TESTS**.
+- 🟥 Attend to the school as much as possible.
+- 🟧 Be creative.
+- 🟧 Be respectful with school & schoolfellows.
+- 🟧 Ask as much as possible looking for help with other students.
+- 🟧 Be motivated and dedicated during the piscine.
+- 🟨 Be persistent and fearless of failure.
+- 🟨 Do not bother the staff or other cadets with questions related to your projects.
 
 #### :memo: PISCINE'S TIPS:
 
@@ -136,14 +136,14 @@ El objetivo principal de este periódo es demostrar que has adquirido los **cono
 
 Bajo mi punto de vista, y tras haber realizado esta prueba en dos campus diferentes **(42 Sillicon Valley & s19 en Bruselas)**, dialogando con los estudiantes de cada campus es que **NADIE** sabe a ciencia cierta cuales son los parámetros de evaluación para ser estudiante. Sin embargo, existen algunos factores que si que pueden influir a la hora de ser evaluado, los cuales los nombraré aqui abajo (recuerden, bajo mi **PUNTO DE VISTA**):
 
-- ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) Aprobar los **EXÁMENES**.
-- ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) Acudir el máximo tiempo posible.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Ser creativo.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Ser respetuoso con las normas de la escuela.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Preguntar MUCHO y comunicarse con los demás piscineros para resolver dudas.
-- ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Estar motivado y dedicado durante la prueba.
-- ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Ser persistente y no tener miedo al fracaso.
-- ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) No molestar al staff o demás estudiantes para preguntas relacionadas con tus proyectos.
+- 🟥 Aprobar los **EXÁMENES**.
+- 🟥 Asistir el máximo tiempo posible.
+- 🟧 Ser creativo.
+- 🟧 Ser respetuoso con las normas de la escuela.
+- 🟧 Preguntar MUCHO y comunicarse con los demás piscineros para resolver dudas.
+- 🟧 Estar motivado y dedicado durante la prueba.
+- 🟨 Ser persistente y no tener miedo al fracaso.
+- 🟨 No molestar al staff o demás estudiantes para preguntas relacionadas con tus proyectos.
 
 #### :memo: CONSEJOS PARA LA PISCINA:
 
