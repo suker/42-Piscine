@@ -28,7 +28,7 @@ Our program is rigid yet flexible: certain projects are required in a particular
 ### :bulb: ABOUT PISCINE :bulb:
 #### :pushpin: INTRODUCTION:
 
-**The piscine** is a 1 month on-site test dedicated to learning about the basics of programming. It consists of 26 days of constant and intensive learning during the pisciners must demonstrate their acquired skills through weekly exams.
+**The piscine** is a 1 month on-site test dedicated to learning about the basics of programming. It consists in a constant and intensive learning during 26 days, the pisciners had to demostrate their skills acquired during the process doing weekly exams.
 
 #### :dart: OBJECTIVES:
 
